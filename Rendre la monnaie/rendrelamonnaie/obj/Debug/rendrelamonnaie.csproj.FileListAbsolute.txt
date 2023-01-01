@@ -1,0 +1,21 @@
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.exe.config
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.exe
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.pdb
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.exe
+C:\Users\Hugo\Desktop\BTS SIO SAUVEGARDE !!!!!\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.pdb
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.exe.config
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.exe
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.pdb
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.csproj.AssemblyReference.cache
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.csproj.CoreCompileInputs.cache
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.exe
+F:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.pdb
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.exe.config
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.exe
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\bin\Debug\rendrelamonnaie.pdb
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.csprojAssemblyReference.cache
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.csproj.CoreCompileInputs.cache
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.exe
+K:\BTS SIO Slam Verghot\Dossier programmation BLOC 1\Base de la pragrammation\Devoir\rendrelamonnaie\obj\Debug\rendrelamonnaie.pdb
